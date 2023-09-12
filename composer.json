@@ -1,0 +1,15 @@
+{
+    "name": "fedner/entity",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jenedua",
+            "email": "jenasha29@gmail.com"
+        }
+    ],
+    "require": {}
+}

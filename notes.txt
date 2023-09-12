@@ -1,0 +1,1 @@
+- composer du (depois de alterar o arquivo composer.json)
